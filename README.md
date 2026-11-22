@@ -1,4 +1,6 @@
 # name-generator
+[![GitHub Repo stars](https://img.shields.io/github/stars/Xxincognit56xX/gurnr?style=flat&logo=github&color=e3b341)](https://github.com/Xxincognit56xX/name-generator/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Xxincognit56xX/gurnr?style=flat&logo=github&color=2ea043)](https://github.com/Xxincognit56xX/name-generator/forks)
 
 A tiny command-line tool that generates random, bot usernames like:
 
